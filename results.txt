@@ -1,0 +1,45 @@
+(base) student@itcenter-lab128:~/ParallelPrograming-Assignments$ make run-opt2
+Running stencil_opt2...
+./stencil_opt2
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.027314 flush 142.434227 stencil 145.644682 total 288.120645
+(base) student@itcenter-lab128:~/ParallelPrograming-Assignments$ make run-opt4
+Running stencil_opt4...
+./stencil_opt4
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.023735 flush 137.810695 stencil 145.481271 total 283.340694
+(base) student@itcenter-lab128:~/ParallelPrograming-Assignments$ make run-opt6
+Running stencil_opt6...
+./stencil_opt6
+Running with 4 thread(s)
+Iter 0
+Iter 1000
+Iter 2000
+Iter 3000
+Iter 4000
+Iter 5000
+Iter 6000
+Iter 7000
+Iter 8000
+Iter 9000
+Timing is init 0.021777 flush 138.628978 stencil 144.705317 total 283.817547
