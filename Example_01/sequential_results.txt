@@ -1,0 +1,42 @@
+=== Sequential Word Count ===
+Input directory: /home/danin/Desktop/dataset_for_map_reduce./D1.7GB
+
+Progress: 100 files | Words: 6291791 | Unique: 138910     Progress: 200 files | Words: 12710777 | Unique: 203049     Progress: 300 files | Words: 18469906 | Unique: 254978     Progress: 400 files | Words: 25145130 | Unique: 299437     Progress: 500 files | Words: 31706752 | Unique: 347593     Progress: 600 files | Words: 38226108 | Unique: 449385     Progress: 700 files | Words: 47548900 | Unique: 2305005     Progress: 800 files | Words: 55962213 | Unique: 3801347     Progress: 900 files | Words: 64237670 | Unique: 5100100     Progress: 1000 files | Words: 71147721 | Unique: 5129795     Progress: 1100 files | Words: 77877989 | Unique: 5410663     Progress: 1200 files | Words: 83400055 | Unique: 5435527     Progress: 1300 files | Words: 89925034 | Unique: 5465387     Progress: 1400 files | Words: 96465040 | Unique: 5526397     Progress: 1500 files | Words: 103751393 | Unique: 5560114     Progress: 1600 files | Words: 110292827 | Unique: 5894909     Progress: 1700 files | Words: 117378477 | Unique: 5919644     Progress: 1800 files | Words: 124276468 | Unique: 5942638     Progress: 1900 files | Words: 131062210 | Unique: 6506095     Progress: 2000 files | Words: 139007733 | Unique: 6679211     Progress: 2100 files | Words: 146693790 | Unique: 7909855     Progress: 2200 files | Words: 152962647 | Unique: 8134904     Progress: 2300 files | Words: 161092375 | Unique: 8361821     Progress: 2400 files | Words: 167054349 | Unique: 8621549     Progress: 2500 files | Words: 174651505 | Unique: 9210879     Progress: 2600 files | Words: 180948491 | Unique: 9285222     Progress: 2700 files | Words: 190255205 | Unique: 9316313     Progress: 2800 files | Words: 196945951 | Unique: 9629737     
+
+Processing complete!
+Total files: 2808
+Total words: 197572278
+Unique words: 9631226
+
+Sorting results...
+
+
+=== Top 20 Most Frequent Words ===
+Rank  Word                                     Count
+----------------------------------------------------
+1     the                                   11990055
+2     of                                     6523815
+3     and                                    6436788
+4     to                                     5202751
+5     in                                     3353785
+6     that                                   2455124
+7     he                                     2344694
+8     was                                    2094555
+9     it                                     2050669
+10    his                                    1825026
+11    you                                    1684167
+12    with                                   1647623
+13    for                                    1520937
+14    as                                     1453068
+15    is                                     1443788
+16    had                                    1299654
+17    not                                    1233511
+18    but                                    1141160
+19    her                                    1140588
+20    at                                     1119047
+
+=== Performance Summary ===
+Wall time: 244.00 seconds (4.07 minutes)
+Words processed: 197572278
+Processing rate: 809722 words/second
+Unique words found: 9631226
