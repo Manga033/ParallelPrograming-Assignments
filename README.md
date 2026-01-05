@@ -1,6 +1,6 @@
 ***1. Terminal Screenshots***
 
-**Sequential Output**
+**Sequential Output:**
 ![sequential](sequential_output.png)
 
 **Parallel (2 processes) Output:**
