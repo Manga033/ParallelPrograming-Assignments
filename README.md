@@ -71,6 +71,7 @@ merge their local results into a final global count.
 ***5. Sorting vs. Hashing Investigation***
 
 **Question:** Will execution times be different if we used sorting for the shuffling/grouping phase instead of a hash table?
+
 **Answer:** Yes, the execution times would likely be slower if we used sorting.
 
 **Reasoning:** 
