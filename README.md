@@ -1,9 +1,18 @@
 ***1. Terminal Screenshots***
 
+**Sequential Output**
 ![sequential](sequential_output.png)
+
+**Parallel (2 processes) Output:**
 ![parallel2proc](parallel_2_processes.png)
+
+**Parallel (4 processes) Output:**
 ![parallel4proc](parallel_4_processes.png)
+
+**Parallel (8 processes) Output:**
 ![parallel8proc](parallel_8_processes.png)
+
+**Parallel (16 processes) Output:**
 ![parallel16proc](parallel_16_processes.png)
 
 ***2. Sequential vs. Parallel Implementation***
